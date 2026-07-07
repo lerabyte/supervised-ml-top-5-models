@@ -1,6 +1,6 @@
 # Supervised ML: Top 5 Models
 
-This repository was created as the companion codebase for my supervised machine learning course: https://www.udemy.com/course/supervisedml.
+This repository was created as the companion codebase for my [supervised machine learning course](https://www.udemy.com/course/supervisedml).
 
 It is designed to help beginners move from concept-level understanding to actually running and modifying ML code.
 
