@@ -1,7 +1,8 @@
 # Supervised ML: Top 5 Models
 
 This repository was created as the companion codebase for my supervised machine learning course: https://www.udemy.com/course/supervisedml.
-/nIt is designed to help beginners move from concept-level understanding to actually running and modifying ML code.
+
+It is designed to help beginners move from concept-level understanding to actually running and modifying ML code.
 
 This repository contains beginner-friendly notebook examples for five foundational supervised machine learning models: linear regression, logistic regression, k-nearest neighbors, decision trees, and random forests. Each notebook follows the same basic machine learning workflow: prepare the data, split into training and testing sets, train the model, evaluate performance, and interpret the results.
 
